@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\openssl\include\openssl\core_dispatch.h(65,1): warning C4191: приведение типов: небезопасное преобразование "void (__cdecl *const )(void)" в "OSSL_FUNC_core_gettable_params_fn (__cdecl *)"
+           Вызов этой функции через результирующий указатель может вызвать сбой программы
+C:\Users\lordm\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(173,33): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lordm\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(340,92): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\lordm\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(341,91): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\lordm\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(120): warning C4715: hashit: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\lordm\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
