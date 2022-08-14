@@ -1,2 +1,1 @@
-# ConsoleApplication1
- C:\Users\lordm\source\repos\ConsoleApplication1
+websocket client for loader or some same shit
